@@ -7,8 +7,8 @@ test('scrape() for f02dkl4e in Placeholder Insurance', async (t) => {
   const customerId = 'f02dkl4e';
   const expectedFile = path.join(process.cwd(), 'tests', 'data', `${customerId}.json`);
   const expectedData = JSON.parse(fs.readFileSync(expectedFile, 'utf-8'));
-
   const result = await scrape(customerId);
+
   t.same(
     result,
     expectedData,
