@@ -46,7 +46,7 @@ function fetchCustomer($: CheerioRoot): Customer {
 function fetchPolicies($: CheerioRoot): Policy[] {
   const policies: Policy[] = [];
   $('.policy-info-row').each((_i, row) => {
-    const cells = cheerio.default(row).children('td');
+    const cells = $(row).children('td');
     const id = cells.eq(0).text().trim();
     const premiumStr = cells.eq(1).text().trim();
     const status = cells.eq(2).text().trim();

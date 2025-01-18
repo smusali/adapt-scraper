@@ -37,7 +37,7 @@ function fetchCustomer($: CheerioRoot): Customer {
 function fetchPolicies($: CheerioRoot): Policy[] {
   const policies: Policy[] = [];
   $('#policy-list li').each((_i, el) => {
-    const row = cheerio.default(el);
+    const row = $(el);
     policies.push({
       id: row.find('.id').text().trim(),
       premium: parseFloat(row.find('.premium').text().trim()) || 0,
