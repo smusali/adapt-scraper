@@ -1,6 +1,7 @@
 {
-  "name": "tsc_boilerplate",
+  "name": "adapt-scraper",
   "version": "1.0.0",
+  "description": "A TypeScript-based Scraper for Insurance Data",
   "main": "index.ts",
   "license": "MIT",
   "scripts": {
