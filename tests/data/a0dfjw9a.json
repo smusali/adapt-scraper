@@ -1,0 +1,104 @@
+{
+  "agent": {
+    "name": "Abel Konopelski",
+    "producerCode": "IMELPT0V",
+    "agencyName": "Kemmer - Berge",
+    "agencyCode": "BQUI1ONR"
+  },
+  "customer": {
+    "name": "Teresa Goodwin V",
+    "id": "a0dfjw9a",
+    "email": "Tabitha_Barton27@hotmail.com",
+    "address": "8280 McCullough Lake"
+  },
+  "policies": [
+    {
+      "id": "pbvzh6046i",
+      "premium": 450,
+      "status": "claim_rejected",
+      "effectiveDate": "9/9/2021",
+      "terminationDate": "10/25/2021",
+      "lastPaymentDate": "9/10/2021"
+    },
+    {
+      "id": "xt9d2t2cpy",
+      "premium": 9027,
+      "status": "active",
+      "effectiveDate": "9/9/2021",
+      "terminationDate": "6/7/2022",
+      "lastPaymentDate": "9/10/2021"
+    },
+    {
+      "id": "f4p0f5wfqy",
+      "premium": 9287,
+      "status": "pending_cancelation",
+      "effectiveDate": "9/10/2021",
+      "terminationDate": "5/30/2022",
+      "lastPaymentDate": "9/10/2021"
+    },
+    {
+      "id": "8z09phyy10",
+      "premium": 6502,
+      "status": "endorsement_pending",
+      "effectiveDate": "9/10/2021",
+      "terminationDate": "4/8/2022",
+      "lastPaymentDate": "9/10/2021"
+    },
+    {
+      "id": "vbngv4xubx",
+      "premium": 5010,
+      "status": "pending_cancelation",
+      "effectiveDate": "9/9/2021",
+      "terminationDate": "1/22/2022",
+      "lastPaymentDate": "9/10/2021"
+    },
+    {
+      "id": "ml7u10et8w",
+      "premium": 3336,
+      "status": "active",
+      "effectiveDate": "9/10/2021",
+      "terminationDate": "1/9/2022",
+      "lastPaymentDate": "9/10/2021"
+    },
+    {
+      "id": "w5310n0ad9",
+      "premium": 8674,
+      "status": "endorsement_pending",
+      "effectiveDate": "9/10/2021",
+      "terminationDate": "8/22/2022",
+      "lastPaymentDate": "9/10/2021"
+    },
+    {
+      "id": "4byhletk18",
+      "premium": 3451,
+      "status": "claim_rejected",
+      "effectiveDate": "9/10/2021",
+      "terminationDate": "5/17/2022",
+      "lastPaymentDate": "9/10/2021"
+    },
+    {
+      "id": "bt0bnkyj0u",
+      "premium": 8022,
+      "status": "endorsement_pending",
+      "effectiveDate": "9/9/2021",
+      "terminationDate": "7/27/2022",
+      "lastPaymentDate": "9/10/2021"
+    },
+    {
+      "id": "s41eb75w2q",
+      "premium": 6466,
+      "status": "pending_cancelation",
+      "effectiveDate": "9/10/2021",
+      "terminationDate": "12/5/2021",
+      "lastPaymentDate": "9/10/2021"
+    },
+    {
+      "id": "q1s6b7eq5w",
+      "premium": 5130,
+      "status": "endorsement_pending",
+      "effectiveDate": "9/10/2021",
+      "terminationDate": "10/4/2021",
+      "lastPaymentDate": "9/9/2021"
+    }
+  ]
+}

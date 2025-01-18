@@ -1,0 +1,104 @@
+{
+  "agent": {
+    "name": "Darin Haag",
+    "producerCode": "VUZ4OBWU",
+    "agencyName": "Beier, Quitzon and Kirlin",
+    "agencyCode": "H62E9ALA"
+  },
+  "customer": {
+    "name": "Sherri Ritchie",
+    "id": "f02dkl4e",
+    "email": "Address: 61734 Edgardo Brooks",
+    "address": "61734 Edgardo Brooks"
+  },
+  "policies": [
+    {
+      "id": "tzmgis4dk3",
+      "premium": 5757,
+      "status": "pending_cancelation",
+      "effectiveDate": "9/10/2021",
+      "terminationDate": "1/18/2022",
+      "lastPaymentDate": ""
+    },
+    {
+      "id": "j310ut4g14",
+      "premium": 9887,
+      "status": "endorsement_pending",
+      "effectiveDate": "9/10/2021",
+      "terminationDate": "4/27/2022",
+      "lastPaymentDate": ""
+    },
+    {
+      "id": "s0243utqc9",
+      "premium": 5339,
+      "status": "endorsement_pending",
+      "effectiveDate": "9/10/2021",
+      "terminationDate": "7/7/2022",
+      "lastPaymentDate": ""
+    },
+    {
+      "id": "fanbk4an5k",
+      "premium": 7457,
+      "status": "active",
+      "effectiveDate": "9/9/2021",
+      "terminationDate": "11/20/2021",
+      "lastPaymentDate": ""
+    },
+    {
+      "id": "6vzdbmyptv",
+      "premium": 295,
+      "status": "endorsement_pending",
+      "effectiveDate": "9/9/2021",
+      "terminationDate": "3/9/2022",
+      "lastPaymentDate": ""
+    },
+    {
+      "id": "yg1rv0s70s",
+      "premium": 1572,
+      "status": "endorsement_pending",
+      "effectiveDate": "9/9/2021",
+      "terminationDate": "12/10/2021",
+      "lastPaymentDate": ""
+    },
+    {
+      "id": "9vkwjijmvt",
+      "premium": 3969,
+      "status": "endorsement_pending",
+      "effectiveDate": "9/10/2021",
+      "terminationDate": "3/8/2022",
+      "lastPaymentDate": ""
+    },
+    {
+      "id": "wpk6r2j1yk",
+      "premium": 6002,
+      "status": "pending_cancelation",
+      "effectiveDate": "9/10/2021",
+      "terminationDate": "6/18/2022",
+      "lastPaymentDate": ""
+    },
+    {
+      "id": "rzk89nxr50",
+      "premium": 463,
+      "status": "endorsement_pending",
+      "effectiveDate": "9/10/2021",
+      "terminationDate": "12/22/2021",
+      "lastPaymentDate": ""
+    },
+    {
+      "id": "h2mf6vi2q9",
+      "premium": 2244,
+      "status": "claim_pending",
+      "effectiveDate": "9/10/2021",
+      "terminationDate": "1/24/2022",
+      "lastPaymentDate": ""
+    },
+    {
+      "id": "iqgho6bp5s",
+      "premium": 2386,
+      "status": "active",
+      "effectiveDate": "9/10/2021",
+      "terminationDate": "1/28/2022",
+      "lastPaymentDate": ""
+    }
+  ]
+}
